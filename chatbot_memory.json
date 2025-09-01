@@ -1,0 +1,32 @@
+{
+    "hello": [
+        "Hi!",
+        "Hello there!",
+        "Hey \ud83d\udc4b"
+    ],
+    "hi": [
+        "Hello!",
+        "Hey!",
+        "Hi there!"
+    ],
+    "hey": [
+        "Hey! How's it going?",
+        "Hey \ud83d\udc4b",
+        "Yo!"
+    ],
+    "how are you": [
+        "I'm fine, thanks!",
+        "Doing great, how about you?"
+    ],
+    "bye": [
+        "Goodbye! Have a great day!",
+        "See you soon!",
+        "Bye \ud83d\udc4b"
+    ],
+    "what is your name": [
+        "i'm your friend chatbot."
+    ],
+    "what's your name": [
+        "i'm your friend chatbot"
+    ]
+}
